@@ -23,6 +23,8 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@sveltejs/adapter-cloudflare": "^2.3.0"
+		"@sveltejs/adapter-cloudflare": "^2.3.0",
+		"sass": "^1.62.1",
+		"scss": "^0.2.4"
 	}
 }
